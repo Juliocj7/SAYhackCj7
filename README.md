@@ -23,8 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220607-150011_Termux](https://user-images.githubusercontent.com/81049859/172465423-160ddd07-aa44-433e-b59c-a742140380ca.png)
-
+![Screenshot_20221228-195907_Termux](https://user-images.githubusercontent.com/81049859/209887184-5903e5fa-f936-40bb-bd9e-a1a45e3e059b.png)
 
 ## SAYhackCj7 :
 * Herramienta Phishing para iniciar y capturar grabaciónes del micrófono de un dispositivo.
