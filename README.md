@@ -32,23 +32,18 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/SAYhackCj7 `
 
 * ` cd SAYhackCj7 `
 
 * ` chmod +x * `
-
-* ` cp $PREFIX/bin/ngrok . `
 
 * ` bash SAYhackCj7 `
 
