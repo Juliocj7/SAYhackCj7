@@ -55,17 +55,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/SAYhackCj7 `
-
-* ` cd SAYhackCj7 `
-
-* ` chmod +x * `
-
-* ` bash SAYhackCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/SAYhackCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd SAYhackCj7 && chmod +x * && ./SAYhackCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
